@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/TonPai/static/css/main.48d01eb7.css",
+    "main.js": "/TonPai/static/js/main.49533325.js",
+    "static/js/453.8eda42c5.chunk.js": "/TonPai/static/js/453.8eda42c5.chunk.js",
+    "static/media/marr.mp3": "/TonPai/static/media/marr.6deb9e987e761d18483a.mp3",
+    "static/media/12.jpg": "/TonPai/static/media/12.30be4ae8a78bfc00c647.jpg",
+    "static/media/11.jpg": "/TonPai/static/media/11.c86d838302e7f44b5d3b.jpg",
+    "static/media/10.jpg": "/TonPai/static/media/10.2143099541a1ecc9b9cf.jpg",
+    "static/media/13.jpg": "/TonPai/static/media/13.680fce081284652a53f2.jpg",
+    "static/media/9.jpg": "/TonPai/static/media/9.cd55589a12971d097548.jpg",
+    "static/media/18.jpg": "/TonPai/static/media/18.1cabdcf916b2717b5ae5.jpg",
+    "static/media/14.jpg": "/TonPai/static/media/14.8641b69e92921b669325.jpg",
+    "static/media/16.jpg": "/TonPai/static/media/16.397b2a7e5e78bdafd957.jpg",
+    "static/media/17.jpg": "/TonPai/static/media/17.56b20daa202fca3e3efe.jpg",
+    "static/media/15.jpg": "/TonPai/static/media/15.d66cccfa231b2f0b6e6c.jpg",
+    "static/media/6.jpg": "/TonPai/static/media/6.139a0620f3abfa035f06.jpg",
+    "static/media/8.jpg": "/TonPai/static/media/8.ea772e97bf6148e38af9.jpg",
+    "static/media/3.jpg": "/TonPai/static/media/3.6b919970438d501f560d.jpg",
+    "static/media/1.png": "/TonPai/static/media/1.6017e01ceb93fde91d57.png",
+    "static/media/2.jpg": "/TonPai/static/media/2.a9f59c6dc8dc0ad20c91.jpg",
+    "static/media/4.jpg": "/TonPai/static/media/4.7bf13e5e7ae4bca067ca.jpg",
+    "static/media/1.jpg": "/TonPai/static/media/1.1d7649ef4ca5a0797971.jpg",
+    "static/media/5.jpg": "/TonPai/static/media/5.d2221cbd53b0d5b5632d.jpg",
+    "static/media/7.jpg": "/TonPai/static/media/7.0fe9cbbf00b316341d42.jpg",
+    "static/media/play-button2.png": "/TonPai/static/media/play-button2.b161555ba3d1e049075f.png",
+    "static/media/pause-button2.png": "/TonPai/static/media/pause-button2.ee82f6cd92e5e973ddec.png",
+    "index.html": "/TonPai/index.html",
+    "main.48d01eb7.css.map": "/TonPai/static/css/main.48d01eb7.css.map",
+    "main.49533325.js.map": "/TonPai/static/js/main.49533325.js.map",
+    "453.8eda42c5.chunk.js.map": "/TonPai/static/js/453.8eda42c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48d01eb7.css",
+    "static/js/main.49533325.js"
+  ]
+}
